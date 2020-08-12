@@ -1,7 +1,7 @@
 +++
 headless = true
 title = "Lucas Albuquerque Prazeres"
-description = "mein Blog"
+description = "Mein Blog"
 footerLeft = "Powered by ❤️ and [lernblog.ch](https://www.lernblog.ch)"
 footerRight = ""
 +++
