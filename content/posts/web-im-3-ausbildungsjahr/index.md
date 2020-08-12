@@ -7,9 +7,7 @@ image = "adobestock_256229414.jpg"
 +++
 #### **Was möchte ich lernen?**
 
-Ich möchte Photoshop und das Programmieren lernen.
-
-
+Photoshop und das Programmieren interessieren mich und ich würde es diesbezüglich auch gerne lernen.
 
 #### In welchem Bereich möchte ich arbeiten?
 
