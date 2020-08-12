@@ -3,6 +3,7 @@ title = "Web im 3. Ausbildungsjahr"
 date = "2020-08-12"
 draft = false
 pinned = false
+image = "adobestock_256229414.jpg"
 +++
 #### **Was möchte ich lernen?**
 
