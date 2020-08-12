@@ -1,12 +1,12 @@
 +++
 title = "Über mich"
 draft = false
-description = "Seite über mich"
 image = ""
+description = "Seite über mich"
 +++
 ![](/img/default-author.png)
 
-## Vorname Nachname
+## Lucas Albuquerque Prazeres
 
 info@lernblog.ch
 
