@@ -10,3 +10,11 @@ Heute haben wir im WEB Zeit gehabt unsere eigene Website zu erstellen. Ich war m
 ![](flora.png "Website Flora")
 
 Unsere Seite hat noch viel Verbesserungspotenzial, denn wir haben erst die erste Seite fertiggestellt. Wir müssen noch bei den Produkten Bilder einfügen und den Button verlinken. Auch die Öffnungszeiten fehlen und vieles mehr. In 45 Minuten haben wir als Gruppe viel erreicht.
+
+**Link:**
+
+<!--StartFragment-->
+
+[https://flora-bern.carrd.co/](https://flora-bern.carrd.co/ "https\://flora-bern.carrd.co/")
+
+<!--EndFragment-->
