@@ -10,4 +10,4 @@ description = "Seite über mich"
 
 info@lernblog.ch
 
-Beschreibung, wer ich bin...
+Ich heisse Lucas Albuquerque Prazeres, bin Schüler an der Wirtschaftsmittelschule Bern und bin 17 Jahre alt.
