@@ -1,5 +1,5 @@
 +++
-title = "Website Blumenladen Flora"
+title = "Blumenladen Flora"
 date = "2020-08-19"
 draft = false
 pinned = false
