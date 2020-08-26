@@ -17,10 +17,10 @@ Bei unserem letzten Problem haben wir auch ein Jugendlichen eine Frage gestellt.
 
 ![Abfall auf dem Boden](microsoftteams-image.png)
 
-![Wo ist gesundes & billiges Essen?](microsoftteams-image-1-.png)
+![Maskenabfall auf dem Boden](microsoftteams-image-1-.png)
 
 ![Zu viele Logos](logos.png)
 
 ![Netflix hat nicht alles](netflix.png)
 
-![Maskenabfall auf dem Boden](mc-wo-ist-healthy-food.png)
+![Wo ist gesundes & billiges Essen?](mc-wo-ist-healthy-food.png)
