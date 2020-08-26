@@ -17,10 +17,10 @@ Bei unserem letzten Problem haben wir auch ein Jugendlichen eine Frage gestellt.
 
 ![](microsoftteams-image.png "Abfall auf dem Boden")
 
-![](mc-wo-ist-healthy-food.png "Wo ist gesundes & billiges Essen?")
+![](microsoftteams-image-1-.png "Wo ist gesundes & billiges Essen?")
 
 ![](logos.png "Zu viele Logos")
 
 ![](netflix.png "Netflix hat nicht alles")
 
-![](microsoftteams-image-1-.png "Maskenabfall auf dem Boden")
+![](mc-wo-ist-healthy-food.png "Maskenabfall auf dem Boden")
