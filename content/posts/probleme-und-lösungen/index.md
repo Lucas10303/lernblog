@@ -15,12 +15,12 @@ Ein weiteres Problem sind die ganzen Logos in der Stadt Bern. Da alle Logos wie 
 
 Bei unserem letzten Problem haben wir auch ein Jugendlichen eine Frage gestellt. Das Problem geht um Netflix. Netflix hat viele Serien und Filme, jedoch noch lange nicht alle. Also wo sollte man denn die Serien streamen, falls Netflix diese Serie nicht hat? Er wüsste es auch nicht, die einzige Lösung wäre es zu warten oder auf eine andere Streamer-Plattform zu gehen.
 
-![](microsoftteams-image.png "Abfall auf dem Boden")
+![Abfall auf dem Boden](microsoftteams-image.png)
 
-![](microsoftteams-image-1-.png "Wo ist gesundes & billiges Essen?")
+![Wo ist gesundes & billiges Essen?](microsoftteams-image-1-.png)
 
-![](logos.png "Zu viele Logos")
+![Zu viele Logos](logos.png)
 
-![](netflix.png "Netflix hat nicht alles")
+![Netflix hat nicht alles](netflix.png)
 
-![](mc-wo-ist-healthy-food.png "Maskenabfall auf dem Boden")
+![Maskenabfall auf dem Boden](mc-wo-ist-healthy-food.png)
