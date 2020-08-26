@@ -24,7 +24,3 @@ Bei unserem letzten Problem haben wir auch ein Jugendlichen eine Frage gestellt.
 ![](netflix.png "Netflix hat nicht alles")
 
 ![](microsoftteams-image-1-.png "Maskenabfall auf dem Boden")
-
-Das Ziel des heutigen Nachmittags war es mehrere Probleme zu finden und dazu auch Lösungen zu finden. Ausserdem mussten wir auch auf der Strasse Personen fragen, was ihnen an das Problem stört. Anoja und ich sind diesbezüglich mit dem Tram zur Stadt Bern gefahren.
-
-In Bern haben wir beim Bärenplatz viel Abfall gesehen, obwohl die Mülleimer in der Nähe waren. Uns hat es gestört, dass es Personen gibt, die den eigne
