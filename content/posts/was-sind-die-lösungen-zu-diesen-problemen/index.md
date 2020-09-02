@@ -9,4 +9,10 @@ Heute haben wir uns mit 2 Themen von letzter Woche befasst. Anoja und ich haben 
 
 Die zweite Idee wäre eine App zu erstellen um gesünder zu Essen. Dort würden wir eine App kreieren und dort können die Nutzer Gerichte auswählen und wir geben welche Lebensmittel man bräuchte.
 
+Hier noch der Link für die Website: <!--StartFragment-->
+
+[https://lunoja.carrd.co/#](https://lunoja.carrd.co/# "https\://lunoja.carrd.co/#")
+
+<!--EndFragment-->
+
 ![Ideen](blatt-ideen-1-.jpg)
