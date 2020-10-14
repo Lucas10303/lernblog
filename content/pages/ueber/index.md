@@ -10,4 +10,4 @@ description = "Seite über mich"
 
 info@lernblog.ch
 
-Ich heisse Lucas Albuquerque Prazeres, bin Schüler an der Wirtschaftsmittelschule Bern und bin 17 Jahre alt.
+Ich heisse Lucas Albuquerque Prazeres, bin Schüler an der Wirtschaftsmittelschule Bern und bin 17 Jahre alt. Im Wahlfach WEB schrieben wir wöchentlich einen Blogeintrag. Schaut vorbei und viel Spass beim lesen!
