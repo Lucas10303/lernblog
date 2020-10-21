@@ -7,6 +7,6 @@ image = "holpriger-weg.jpg"
 +++
 Heute haben wir alleine gearbeitet, da Marco in der Quarantäne ist. Anoja und ich hatten am Anfang Probleme mit den Computern und mussten den Gruppenraum wechseln und mehrere Computer ausprobieren. Als wir einen funktionierenden Computer gefunden haben, besprachen wir, was mir machen wollten. Wir programmierten bis zum Teil 2. Das Programmieren ging recht gut, da die Anleitung sehr hilfreich ist. Ausserdem haben wir noch ein Brainstorming gemacht und aufgeschrieben was alles in die Webseite kommen soll. Diese Ideen haben wir schlussendlich auf das iPad gebracht und ein Design zustande gebracht. Wir wissen, dass noch ein langer und holpriger Weg vor uns ist. Jedoch mithilfe von Marco und der Zusammenarbeit bekommen wir unsere Webseite sicher zustande!
 
+![](microsoftteams-image-2-.png)
 
-
-Hier sieht man eine Idee von unserer zukünftigen Website.
+Hier sieht man eine Idee von unserer zukünftigen Website. Jedoch sind wir nicht zufrieden damit.
