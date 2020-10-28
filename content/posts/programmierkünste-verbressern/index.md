@@ -3,7 +3,7 @@ title = "Programmierkünste verbessern"
 date = "2020-10-28"
 draft = false
 pinned = false
-image = "print-screen.png"
+image = "maximilian-weisbecker-1td5iq5ivnc-unsplash.jpg"
 +++
 Heute war meine Teamkollegin Anoja krank und somit nicht im WEB. Falls wir zukünftig weiterhin Präsenzunterricht haben werden viele immer wieder in Quarantäne gehen müssen. Das Corornavirus schlägt in der Schweiz stark zu, nur heute waren es fast 9'000 Fälle in der Schweiz. Der Bundesrat wird heute die weiteren Massnahmen entscheiden und ich persönlich möchte wieder Homeschooling haben. Praktisch alle von dem Freifach wünschen sich nach Hause zu gehen. Ich hoffe, dass unser Wunsch in Erfüllung gehen wird. Bald beginnt die Medienkonferenz, ob wir nächste Woche schon zu Hause sein werden, weiss bis jetzt noch niemand.
 
