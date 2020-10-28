@@ -4,7 +4,7 @@ draft = false
 image = ""
 description = "Seite über mich"
 +++
-![](/img/default-author.png)
+![](logo-blog.png)
 
 ## Lucas Albuquerque Prazeres
 
