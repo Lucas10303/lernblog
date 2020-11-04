@@ -1,5 +1,5 @@
 +++
-title = "Programmieren, Programmieren, Programmieren"
+title = "Programmieren, Programmieren"
 date = "2020-11-04"
 draft = false
 pinned = false
