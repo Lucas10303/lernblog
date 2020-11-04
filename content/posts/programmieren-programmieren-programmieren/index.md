@@ -5,7 +5,7 @@ draft = false
 pinned = false
 image = "christopher-gower-m_hrflhgabo-unsplash-1-.jpg"
 +++
-Die Entscheidungen des Bundesrates wurden letzten Mittwoch entschieden. Alle Schulen bleiben offen, ausser Hochschulen und Unis offen. Meiner Meinung nach könnten sie die Mittelschulen auch schliessen...
+Die Entscheidungen des Bundesrates wurden letzten Mittwoch getroffen. Alle Schulen bleiben offen, ausser Hochschulen und Unis offen. Meiner Meinung nach könnten sie die Mittelschulen auch schliessen...
 
 Trump oder Biden? Dies ist heute auch die grosse Frage, den in den nächsten Tagen wird der nächste Präsident der Vereinigten Staaten von Amerika gewählt. Mittlerweile sieht es besser für Joe Biden aus, jedoch denke ich, dass Donald Trump gewinnen wird. Ich bin sehr gespannt wer in den nächsten Tagen gewählt wird.
 
