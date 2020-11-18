@@ -13,6 +13,6 @@ Anoja und ich haben heute viel gearbeitet. Zuerst haben wir uns mit der Planung 
 
 Wir konnten endlich mit unserer Webseite beginnen. Dazu haben wir ein Template heruntergeladen und können jetzt damit arbeiten. Die html des Templates ist sehr lange und sehr komplex und wir müssen uns da Schritt für Schritt durcharbeiten. Momentan machen wir gerade eine Testversion mit 9 verschiedenen Serien, hoffentlich kommt es gut raus. Wir wissen, dass vor uns sehr viel Arbeit steckt, jedoch sind wir motiviert an diesem Projekt weiter zu arbeiten und es zu vollenden.
 
-![](unbenannt.png)
+![](unbenannt.png "Unsere Webseite")
 
 Momentan sind wir noch nicht sehr weit, aber hier mal eine IST-Stand von unserer Webseite.
