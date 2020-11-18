@@ -15,6 +15,6 @@ Heute haben Anoja und ich weiter programmiert, bald sind wir fertig. Wir bearbei
 
 Nächste Woche muss ich noch meine Website so programmieren, dass man sie ach auf dem Handy öffnen kann. Ebenfalls muss ich noch die anderen Seiten formatieren, denn ich habe erst die Home-Seite formatiert. Anoja, Marco und ich müssen uns noch zusammen setzten, damit wir wegen dem Design unserer eigenen Website (Serien) schauen können. Eine Option wäre eine Website von Beginn an zu programmieren oder eine vorprogrammierte zu benutzen.
 
-![](webdesign.png)
+![](webdesign.png "Meine bearbeitete Webseite")
 
 Im Vergleich zur letzter Woche sieht meine Webseite ganz anders aus.
