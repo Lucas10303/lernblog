@@ -9,6 +9,6 @@ Heute war meine Teamkollegin Anoja krank und somit nicht im WEB. Falls wir zukü
 
 Im WEB habe ich heute meine Programmierkünste ein bisschen verbessert, da ich darin noch nicht sehr gut bin. Mit der Anleitung versteht man es aber sehr gut. Nächste Woche werde ich mit Anoja unsere nächsten Schritte besprechen und das Design wahrscheinlich neu machen. Das Design hat uns beiden nicht gefallen und wir müssen einen guten Prototyp entwerfen, der unseren Wünschen entspricht. Mal schauen ob ich dieser Besprechung mit Anoja per Teams haben werde oder noch im Klassenzimmer.                                                                                                                                                                            
 
-![](print-screen.png)
+![](print-screen.png "Meine Webseite")
 
 Diese Webseite habe ich heute in kurzer Zeit kreiert.
