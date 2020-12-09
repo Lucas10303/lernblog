@@ -13,4 +13,4 @@ Heute vor einer Woche bekam ich per SMS mein Resultat des Coronatests. Ich konnt
 
 Wir konnten heute wieder zusammen im gleichen Raum arbeiten. Bei der Webseite sind wir voran gekommen, jedoch gibt es immer noch viele Probleme. Ebenfalls konnten wir ein Logo erstellen und einen Namen für unsere Webseite geben. Der Name lautet: "Webisodes". Dieser ist eine Zusammenstellung von Web und Episodes. In den folgenden Wochen werden wir ebenfalls an der Webseite arbeiten. Da Anoja besser im programmieren ist, versuche ich sie so gut wie möglich zu unterstützen. Nächste Woche werde ich Vorarbeit leisten und zwar alle Bilder gleichgross machen.
 
-![](dsafuj.png "The haunting of Bly Manor Stand 09.12.2020")
+![The haunting of Bly Manor Stand 09.12.2020](dsafuj.png "The haunting of Bly Manor Stand 09.12.2020")
