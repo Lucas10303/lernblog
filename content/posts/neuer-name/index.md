@@ -3,6 +3,7 @@ title = "Neuer Name"
 date = "2020-12-09"
 draft = false
 pinned = false
+image = "resize.jpg"
 +++
 #### Resultat des Coronatests
 
@@ -11,3 +12,5 @@ Heute vor einer Woche bekam ich per SMS mein Resultat des Coronatests. Ich konnt
 #### Heutiger Arbeitsprozess
 
 Wir konnten heute wieder zusammen im gleichen Raum arbeiten. Bei der Webseite sind wir voran gekommen. Ebenfalls konnten wir ein Logo erstellen und einen Namen für unsere Webseite geben. Der Name lautet: "Webisodes". Dieser ist eine Zusammenstellung von Web und Episodes. In den folgenden Wochen werden wir ebenfalls an der Webseite arbeiten.
+
+![](dsafuj.png "The haunting of Bly Manor Stand 09.12.2020")
