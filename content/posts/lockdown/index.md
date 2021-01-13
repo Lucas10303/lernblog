@@ -3,12 +3,15 @@ title = "Lockdown?"
 date = "2021-01-13"
 draft = false
 pinned = false
+image = "ibrahim-boran-q5bnggt2y_e-unsplash.jpg"
 +++
 Das Jahr 2021 hat begonnen und ich wünsche dir ein schönes neues Jahr!
 
 ### Gehen wir wieder in den Fernunterricht?
 
 Heute war wieder eine Bundesratssitzung, da die Corona-Mutation grosse Sorgen bereitet und die Zahlen in der Schweiz nicht sinken. Wie zu erwartet werden alle Läden (ausser Lebensmittelläden, Apotheken etc.) schliessen, jedoch werden die Schulen offen bleiben. Ehrlich gesagt finde ich das eine sehr dumme Entscheidung. Die privaten Treffen sind nur noch auf 5 Personen eingeschränkt, aber in unserer Klasse sind 20 Schüler*innen, das ergibt keinen Sinn. Meiner Meinung nach sollten sie uns nach Hause schicken, dort können wir auch den Unterricht fortfahren.
+
+![Ein Kind im Fernunterricht.](annie-spratt-qghwrrqteay-unsplash.jpg "Ein Kind im Fernunterricht.")
 
 ### Wer wird neuer Präsident?
 
