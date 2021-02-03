@@ -13,4 +13,8 @@ Da Anoja programmierte, habe ich heute Texte verfasst. Diese Texte dienen als Zu
 
 Ausserdem haben wir dieses A3 Blatt ausgefüllt, welches Marco uns ausgeteilt hat. Bei den Lösungen sind wir nicht weitergekommen, da wir nicht wissen, was es für Lösungen gäbe. Wir müssen uns dort noch Gedanken machen.
 
+Was mir Sorgen macht ist die momentane Corona-Lage in Portugal. Momentan hat Portugal die grösste Ansteckungsrate der Welt auf 100'000 Einwohner umgerechnet! Die Zahl der Toten steigen und steigen und es sind schon 300 täglich. Für ein Land mit knapp über 10 Millionen Einwohner ist das eine Katastrophe. Die Intensivstationen sind komplett voll und das Gesundheitssystem steht vor dem Kollaps. Deutschland hat heute 27 Ärzte geschickt und Betten, damit Portugal die Lage unter Kontrolle bringen kann. Auch werden Kranke jetzt nach Deutschland, Österreich und Spanien geliefert. Ich hoffe, dass diese Lage sich bald verbessert.
+
+PS: Ich habe noch vergessen zu erwähnen wer die Wahlen in Portugal gewonnen hat. Der noch damals amtierende Präsident wurde wiedererwählt und der Faschistische Kandidat lag auf dem 3. Platz. Jedoch habe ich das Gefühl, dass diese Zahl von Jahr zu Jahr immer mehr zunehmen wird. 
+
 ![](dan-counsell-ziwachjdirm-unsplash-1-.jpg)
