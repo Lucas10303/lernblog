@@ -1,6 +1,6 @@
 +++
 headless = true
-name = "Lucas Albuquerque Prazeres"
+name = "Lucas"
 image = ""
 email = "lucasprazeres10303@gmail.com"
 +++
